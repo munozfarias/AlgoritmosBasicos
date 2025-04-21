@@ -19,7 +19,7 @@ public class Algoritmos {
             }
             return true;
         }
-        
+
     public static String stringEnReversa(String texto) {
         StringBuilder reversa = new StringBuilder();
 

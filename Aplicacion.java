@@ -6,7 +6,7 @@ public class Aplicacion {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Menú interactivo para elegir qué operación realizar
+        // Menú 
         while (true) {
             System.out.println("Seleccione una opción:");
             System.out.println("1. Verificar si un número es par");
